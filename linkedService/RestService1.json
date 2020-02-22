@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://apx.cisco.com/services/api/smart-accounts-and-licensing/v1/accounts/{gdc.dimensiondata.com}/licenses",
+			"url": "https://apx.cisco.com/services/api/smart-accounts-and-licensing/v1/accounts/gdc.dimensiondata.com/licenses",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
