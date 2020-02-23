@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore9",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://apitodatalakestorage.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "e3cf3c98-a978-465f-8254-9d541eeea73c",
+			"subscriptionId": "cf82edd2-48f0-4ce2-94ac-5ac094989070",
+			"resourceGroupName": "APItoDataLakeStorage"
+		}
+	}
+}
